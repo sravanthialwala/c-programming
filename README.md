@@ -1,1 +1,1 @@
-these are the files which are related to prcactice sessoions programs while  i was learning c
+These are the files which are related to practice sessions programs while  I was learning c
